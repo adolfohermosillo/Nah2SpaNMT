@@ -1,2 +1,2 @@
 # Nah2SpaNMT
-Code for the completion of the UT SDS certificate in scientific computation and Machine Learning Toolbox for Text Analysis
+Code for the completion of the UT SDS certificate in Scientific Computation and Data Sciences and Machine Learning Toolbox for Text Analysis final project.
